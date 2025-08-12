@@ -29,6 +29,7 @@ Postagem no git Tivemos muita díficulade ao postar esse trabalho, foram dificul
 <img width="1069" height="661" alt="image" src="https://github.com/user-attachments/assets/320b948c-fe6e-46fd-80c4-29b6749404ec" />
 
 
+<img width="1091" height="856" alt="image" src="https://github.com/user-attachments/assets/afd867f9-35ac-4657-bea5-8d556d09ed8d" />
 
 
 
