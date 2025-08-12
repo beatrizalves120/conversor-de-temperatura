@@ -23,3 +23,12 @@ Usar scanf corretamente Tive dificuldade para ler corretamente os dados do usuá
 Evitar repetição de código Como os dois scripts usam as mesmas fórmulas, fiquei em dúvida se deveria copiar tudo ou criar um arquivo separado. No fim, deixei os dois scripts independentes para facilitar a execução separada.
 
 Postagem no git Tivemos muita díficulade ao postar esse trabalho, foram dificuldades do começo ao fim, quando iamos postar o codespace não carregava.
+
+
+<img width="804" height="503" alt="image" src="https://github.com/user-attachments/assets/01a66b8c-dfb4-4cb6-8bab-e4dfb404dc24" />
+
+
+
+
+
+
