@@ -25,7 +25,6 @@ Evitar repetição de código Como os dois scripts usam as mesmas fórmulas, fiq
 Postagem no git Tivemos muita díficulade ao postar esse trabalho, foram dificuldades do começo ao fim, quando iamos postar o codespace não carregava.
 
 
-<img width="804" height="503" alt="image" src="https://github.com/user-attachments/assets/01a66b8c-dfb4-4cb6-8bab-e4dfb404dc24" />
 
 
 
