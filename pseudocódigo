@@ -1,0 +1,30 @@
+INÍCIO
+
+    ESCREVA "Digite a temperatura:"
+    LEIA temperatura
+
+    ESCREVA "Digite a escala de origem (C para Celsius, F para Fahrenheit, K para Kelvin):"
+    LEIA escala
+
+    SE escala == "C" OU escala == "c" ENTÃO
+        fahrenheit ← (temperatura * 9/5) + 32
+        kelvin ← temperatura + 273.15
+        ESCREVA "Temperatura em Fahrenheit: ", fahrenheit
+        ESCREVA "Temperatura em Kelvin: ", kelvin
+
+    SENÃO SE escala == "F" OU escala == "f" ENTÃO
+        celsius ← (temperatura - 32) * 5/9
+        kelvin ← celsius + 273.15
+        ESCREVA "Temperatura em Celsius: ", celsius
+        ESCREVA "Temperatura em Kelvin: ", kelvin
+
+    SENÃO SE escala == "K" OU escala == "k" ENTÃO
+        celsius ← temperatura - 273.15
+        fahrenheit ← (celsius * 9/5) + 32
+        ESCREVA "Temperatura em Celsius: ", celsius
+        ESCREVA "Temperatura em Fahrenheit: ", fahrenheit
+
+    SENÃO
+        ESCREVA "Escala inválida. Use C, F ou K."
+
+FIM
